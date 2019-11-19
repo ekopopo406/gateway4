@@ -1,0 +1,5 @@
+eureka: 
+  client: 
+    service-url: 
+      defaultZone: http://discovery4:8886/eureka
+

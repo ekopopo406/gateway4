@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: gateway4
+  profiles:
+    active: Local
+server: 
+  port: 8888
